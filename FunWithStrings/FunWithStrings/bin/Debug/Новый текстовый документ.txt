@@ -1,0 +1,6 @@
+{
+            byte myByte = 0;
+            int myInt = 200;
+            myByte = (byte)myInt;
+            Console.WriteLine("Value of myByte: {0}", myByte);
+        }

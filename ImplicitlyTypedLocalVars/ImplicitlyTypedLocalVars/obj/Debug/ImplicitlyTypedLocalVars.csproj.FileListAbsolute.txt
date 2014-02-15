@@ -1,0 +1,5 @@
+D:\CscWorks\projects\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.exe
+D:\CscWorks\projects\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.pdb
+D:\CscWorks\projects\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.csprojResolveAssemblyReference.cache
+D:\CscWorks\projects\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.exe
+D:\CscWorks\projects\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.pdb

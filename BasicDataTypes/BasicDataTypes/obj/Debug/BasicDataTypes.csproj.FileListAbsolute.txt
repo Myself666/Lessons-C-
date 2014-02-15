@@ -1,0 +1,5 @@
+D:\CscWorks\projects\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+D:\CscWorks\projects\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+D:\CscWorks\projects\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+D:\CscWorks\projects\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb
+D:\CscWorks\projects\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojResolveAssemblyReference.cache

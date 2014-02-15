@@ -1,0 +1,5 @@
+D:\CscWorks\projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+D:\CscWorks\projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+D:\CscWorks\projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+D:\CscWorks\projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+D:\CscWorks\projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb

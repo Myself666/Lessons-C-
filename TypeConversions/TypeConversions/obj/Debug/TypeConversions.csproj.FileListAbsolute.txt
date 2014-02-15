@@ -1,0 +1,5 @@
+D:\CscWorks\projects\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe
+D:\CscWorks\projects\TypeConversions\TypeConversions\bin\Debug\TypeConversions.pdb
+D:\CscWorks\projects\TypeConversions\TypeConversions\obj\Debug\TypeConversions.exe
+D:\CscWorks\projects\TypeConversions\TypeConversions\obj\Debug\TypeConversions.pdb
+D:\CscWorks\projects\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csprojResolveAssemblyReference.cache

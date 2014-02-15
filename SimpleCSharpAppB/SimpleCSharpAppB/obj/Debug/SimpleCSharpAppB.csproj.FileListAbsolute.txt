@@ -1,0 +1,5 @@
+D:\CscWorks\projects\SimpleCSharpAppB\SimpleCSharpAppB\bin\Debug\SimpleCSharpAppB.exe
+D:\CscWorks\projects\SimpleCSharpAppB\SimpleCSharpAppB\bin\Debug\SimpleCSharpAppB.pdb
+D:\CscWorks\projects\SimpleCSharpAppB\SimpleCSharpAppB\obj\Debug\SimpleCSharpAppB.csprojResolveAssemblyReference.cache
+D:\CscWorks\projects\SimpleCSharpAppB\SimpleCSharpAppB\obj\Debug\SimpleCSharpAppB.exe
+D:\CscWorks\projects\SimpleCSharpAppB\SimpleCSharpAppB\obj\Debug\SimpleCSharpAppB.pdb

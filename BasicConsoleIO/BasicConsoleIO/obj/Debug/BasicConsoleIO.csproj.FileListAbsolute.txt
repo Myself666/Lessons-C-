@@ -1,0 +1,5 @@
+D:\CscWorks\projects\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+D:\CscWorks\projects\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+D:\CscWorks\projects\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+D:\CscWorks\projects\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb
+D:\CscWorks\projects\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\CscWorks\projects\IterationAndDecisions\IterationAndDecisions\bin\Debug\IterationAndDecisions.exe
+D:\CscWorks\projects\IterationAndDecisions\IterationAndDecisions\bin\Debug\IterationAndDecisions.pdb
+D:\CscWorks\projects\IterationAndDecisions\IterationAndDecisions\obj\Debug\IterationAndDecisions.exe
+D:\CscWorks\projects\IterationAndDecisions\IterationAndDecisions\obj\Debug\IterationAndDecisions.pdb
+D:\CscWorks\projects\IterationAndDecisions\IterationAndDecisions\obj\Debug\IterationAndDecisions.csprojResolveAssemblyReference.cache

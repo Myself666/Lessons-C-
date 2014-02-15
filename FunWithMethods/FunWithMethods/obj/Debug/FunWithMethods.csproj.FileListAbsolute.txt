@@ -1,0 +1,5 @@
+D:\CscWorks\projects\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+D:\CscWorks\projects\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+D:\CscWorks\projects\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+D:\CscWorks\projects\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb
+D:\CscWorks\projects\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
