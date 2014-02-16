@@ -1,0 +1,5 @@
+D:\CscWorks\projects\Lessons-C-\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe
+D:\CscWorks\projects\Lessons-C-\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.pdb
+D:\CscWorks\projects\Lessons-C-\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.csprojResolveAssemblyReference.cache
+D:\CscWorks\projects\Lessons-C-\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.exe
+D:\CscWorks\projects\Lessons-C-\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.pdb
