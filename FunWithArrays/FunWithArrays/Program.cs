@@ -14,6 +14,10 @@ namespace FunWithArrays
             SimpleArrays();
             ArrayInitialization();
             DeclareImplicitArrays();
+            ArrayOfObjects();
+            RectMultidimensionalArray();
+            JaggedMultidimensionalArray();
+            PassAndReceiveArrays();
             Console.ReadLine();
         }
 
@@ -59,5 +63,89 @@ namespace FunWithArrays
             Console.WriteLine("c is a: {0}", c.ToString());
             Console.WriteLine();
         }
-    }
+
+        static void ArrayOfObjects()
+        {
+            object[] myObjects = new object[4];
+            myObjects[0] = 10;
+            myObjects[1] = false;
+            myObjects[2] = new DateTime(2014, 2, 17);
+            myObjects[3] = "Form and Void";
+            foreach (object obj in myObjects)
+            {
+                Console.WriteLine("Type: {0}, Value: {1}", obj.GetType(), obj);
+            }
+            Console.WriteLine();
+        }
+
+        static void RectMultidimensionalArray()
+        {
+            Console.WriteLine("=> Rectangular multidimensional array:");
+            int[,] myMatrix;
+            myMatrix = new int[6, 6];
+            for(int i = 0; i < 6; i++)
+                for (int j = 0; j < 6; j++)
+                    myMatrix[i, j] = i*j;
+            for (int i = 0; i < 6; i++)
+            {
+                for (int j = 0; j < 6; j++)
+                    Console.Write(myMatrix[i, j] + "\t");
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+
+        private static void JaggedMultidimensionalArray()
+        {
+            Console.WriteLine("=> Jagged multidimensional array:");
+            int [] [] myJagArray = new int[5][];
+            for (int i = 0; i < myJagArray.Length; i++)
+                myJagArray[i] = new int[i + 7];
+            for (int i = 0; i < 5; i++)
+            {
+                for(int j = 0; j < myJagArray[i].Length; j++)
+                    Console.Write(myJagArray[i][j] + " ");
+                Console.WriteLine();
+            }
+        }
+
+        static void PrintArray(int[] myInts)
+        {
+            for (int i = 0; i < myInts.Length; i++)
+                Console.WriteLine("Item {0} is {1}", i, myInts[i]);
+        }
+
+        static string[] GetStringArray()
+        {
+            string[] theStrings = {"Hello", "from", "GetStringArray"};
+            return theStrings;
+        }
+
+        static void PassAndReceiveArrays()
+        {
+            Console.WriteLine("=> Arrays as params and return values.");
+            int[] ages = {20, 22, 23, 0};
+            PrintArray(ages);
+            string[] strs = GetStringArray();
+            foreach(string s in strs)
+                Console.WriteLine(s);
+            Console.WriteLine();
+        }
+
+        static void SystemArrayFunctionality()
+        {
+            Console.WriteLine("Working with System.Array.");
+            string[] gothicBands = {"Tones on Tail", "Bauhaus", "Sisters of Mercy"};
+            Console.WriteLine("-> Here is the Array:");
+            for (int i = 0; i < gothicBands.Length; i++)
+            {
+                Console.Write(gothicBands[i] + ", ");
+            }
+            Console.WriteLine("\n");
+            Array.Reverse(gothicBands);
+            Console.WriteLine("-> The reversed array");
+            for ()
+        }
+
+    }   
 }
