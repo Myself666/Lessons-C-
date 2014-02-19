@@ -1,0 +1,5 @@
+D:\CscWorks\projects\Lessons-C-\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csprojResolveAssemblyReference.cache
+D:\CscWorks\projects\Lessons-C-\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+D:\CscWorks\projects\Lessons-C-\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+D:\CscWorks\projects\Lessons-C-\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+D:\CscWorks\projects\Lessons-C-\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb

@@ -18,6 +18,7 @@ namespace FunWithArrays
             RectMultidimensionalArray();
             JaggedMultidimensionalArray();
             PassAndReceiveArrays();
+            SystemArrayFunctionality();
             Console.ReadLine();
         }
 
@@ -144,7 +145,18 @@ namespace FunWithArrays
             Console.WriteLine("\n");
             Array.Reverse(gothicBands);
             Console.WriteLine("-> The reversed array");
-            for ()
+            for (int i = 0; i < gothicBands.Length; i++)
+            {
+                Console.Write(gothicBands[i] + ", ");
+            }
+            Console.WriteLine("\n");
+            Console.WriteLine("-> Cleared out all but one...");
+            Array.Clear(gothicBands, 1, 2);
+            for (int i = 0; i < gothicBands.Length; i++)
+            {
+                Console.Write(gothicBands[i] + ", ");
+            }
+            Console.WriteLine();
         }
 
     }   
